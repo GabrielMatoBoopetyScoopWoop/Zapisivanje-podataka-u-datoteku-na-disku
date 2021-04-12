@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapisivanjePodatakaSystemIO", "ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO.csproj", "{238E0BAA-D769-43D0-ACE6-F793CBA5B495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238E0BAA-D769-43D0-ACE6-F793CBA5B495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238E0BAA-D769-43D0-ACE6-F793CBA5B495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238E0BAA-D769-43D0-ACE6-F793CBA5B495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238E0BAA-D769-43D0-ACE6-F793CBA5B495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CA1C283-01CD-4D88-8B83-4337E5514239}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\bin\Debug\ZapisivanjePodatakaSystemIO.exe.config
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\bin\Debug\ZapisivanjePodatakaSystemIO.exe
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\bin\Debug\ZapisivanjePodatakaSystemIO.pdb
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\obj\Debug\ZapisivanjePodatakaSystemIO.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\obj\Debug\ZapisivanjePodatakaSystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\obj\Debug\ZapisivanjePodatakaSystemIO.exe
+C:\Users\Mato\source\repos\ZapisivanjePodatakaSystemIO\ZapisivanjePodatakaSystemIO\obj\Debug\ZapisivanjePodatakaSystemIO.pdb
